@@ -141,6 +141,8 @@ def shoe_size(players_name)
       if attribute == :players
         data.each do |player|
           
+        end
+      end
     end
   end
 end
